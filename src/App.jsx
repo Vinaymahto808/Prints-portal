@@ -4,7 +4,7 @@ import Home from './Home';
 import SignupPage from './Components/auth/SignupPage';
 import LoginPage from './Components/auth/LoginPage';
 import AdminDashboard from './Components/AdminDashboard';
-import Nopage from './Nopage';
+
 
 import './App.css';
 
